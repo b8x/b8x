@@ -1,4 +1,6 @@
 ### Hi there 👋
+ 
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=b8x&theme=jolly" alt="Knight's streak">
 
 <!--
 **b8x/b8x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
